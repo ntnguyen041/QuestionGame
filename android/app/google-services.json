@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079837159135",
+    "project_id": "gamedd-ef314",
+    "storage_bucket": "gamedd-ef314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079837159135:android:c6373b2bdf928ce97b836a",
+        "android_client_info": {
+          "package_name": "com.example.gamedd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079837159135-rhhtv8eaqp9fqreclbtp0llaffhvhr26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNREgfnfrs2_stmp-YHQhfWEVQweoYDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079837159135-rhhtv8eaqp9fqreclbtp0llaffhvhr26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
